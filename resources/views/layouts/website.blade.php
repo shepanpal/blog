@@ -49,7 +49,7 @@
 
           <div class="col-4 site-logo">
             <a href="{{ route('website') }}" class="text-black h2 mb-0">
-            <img src="{{ asset($setting->site_logo) }}" alt="site logo" style="width:150px;">
+            <h4>Sblog</h4>
             </a>
           </div>
 
